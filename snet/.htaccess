@@ -1,3 +1,0 @@
-RewriteEngine On    # Turn on the rewriting engine
-RewriteRule    ^/Snet/html/?$    home.html    [NC,L]    # Handle requests for "pet-care"
-RewriteRule    ^/Snet/?$    home.html    [NC,L]    # Handle requests for "pet-care"
