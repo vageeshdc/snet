@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Template</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="../css styles/style.css" rel="stylesheet" type="text/css" />
+<!-- CuFon: Enables smooth pretty custom font rendering. 100% SEO friendly. To disable, remove this section -->
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/arial.js"></script>
+<script type="text/javascript" src="js/cuf_run.js"></script>
+<script src="../../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<!-- CuFon ends -->
+<link href="../../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="main">
+
+  <div class="header">
+    <div class="header_resize">
+      <div class="logo">
+        <h1>SUSTAINABILITY NETWORK  IIT Madras</h1></div>
+      <div class="menu_nav">
+        <ul id="MenuBar1" class="MenuBarHorizontal">
+          <li><a href="home.html">Home</a>          </li>
+          <li><a href="about.html" class="MenuBarItemSubmenu">About us</a>
+            <ul>
+              <li><a href="about.html">About us </a></li>
+              <li><a href="Einleitung.html">Einleitung</a></li>
+              <li><a href="Organizationalstrucutre.html">Organizational strucutre</a></li>
+            </ul>
+          </li>
+          <li><a href="Activities.html">Activities</a></li>
+          <li><a href="Ideas.html">Ideas</a>          </li>
+          <li><a href="Contactus.html">Contact us</a></li>
+        </ul>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="content_resize"> <img src="images/img1.jpg" width="927" height="240" alt="image" class="ctop" />
+      <div class="mainbar">
+        <div class="article">
+          <h2>Einleitung</h2>
+          <p class="c3"><strong>Sustainability Network </strong>of IIT Madras is a student  initiative established in June, 2009 as an outcome of efforts by a few alumni  members and a group of self-motivated graduate and post graduate students.  Their vision for sustainable development of our nation soon synergized to a  mission to make IIT Madras a model for the nation to follow, by implementing  and promoting sustainable living practices on campus.</p>
+          <p>Sustainability Network, SNET in short, is now spread out as  a large banyan tree, covering all the aspects of sustainable development in its  activities. Its activities pan Energy and Electricity consumption in  particular, Water, Waste, Forest and Nutrition (Health) with students as the  primary contributors. <br />
+          </p>
+          <p>SNET was formed as a brain child of a few students and  alumnus under the auspices of Director Prof. Ananth and Deputy Director Prof.  Idichandy.<br />
+          </p>
+          <p>It was taken forward to its current organized set up by the  then Institute Student General secretary Sri. Chilambarasan (M Tech Ocean  engineering 2010), Alumnus Jaiwardhan (M.Tech year ) and distinguished and  elderly alumnus Sri. Ramkrishnan&nbsp;(Minnesotta,USA, PANIIT Official)  (Mechanical, year), The Deputy director of IIT Madras Prof.  Chandy and Sri. Chilambarasan was instrumental in bringing together alumni and  students who had dreams of initiating a movement in IITM for sustainable  development activities. This idea was further developed leading to the  formation of a parent body that could initiate, mobilize and network in all the  IITs, IIMs, and other institutions towards sustainability groups and practices.<br />
+  &nbsp;</p>
+          <p>The alumnus Mr. Jayawardhan( B.Tech Mechanical) along with Mr. Sharat (B.Tech****), played the key role of giving a perfect Professional nature to the  organizational and operational aspects of Sustainability Network of IIT Madras.  Thus was born The SNet, the Sustainability Network of IIT Madras.<br />
+          </p>
+          <p>The organization was coined its name Sustainability Network,  and SNET in short, by the first Core team – Chilambarasan, Rakesh Iyer, Arvind  Ramachandran, Rakshit Agarwal, Vinod Vishwanath and Ajesh kumar, who were also  the founding student members of the organization.<br />
+            <br />
+            The immediate task was to save power as this would be  appealing to everyone on campus. A survey and study followed in order to  understand the power consumption pattern of campus. The findings and  suggestions increased the interest of the administration and alumni  association. Promoted by Prof. Idichandy, deputy director of IIT Madras, who  took a personal interest in this, the mission attained an avalanche growth with  back up from Energy Forum of IIT Madras. Prof. Idichandy recognizing the  importance of the mission in its global prospects extended all support to see  that the student members get access to all the resources required for smooth  performance of the group. He was instrumental in getting the group networked to  experts with similar interest from IIT Madras.<br />
+            &nbsp;</p>
+          <p>The next big thing that happened to Sustainability  Network was the advent of alumnus Mr. Ram Krishnan to the mission from the  PAN-IIT group. With the help of Ram, himself a pioneering champion in rain  water harvesting and ensuring pure sustainable stock of drinking water for  rural India,&nbsp; the group started moving towards establishing renewable  sources of power for IITM Campus and for complete waste recycling. He helped to  network with more alumni members who shared their expertise in the field of  renewable energy and Sustainable developments.</p>
+<h2><br />
+          </h2>
+        </div>
+        <div class="article"> </div>
+      </div>
+      <div class="sidebar">
+        <div class="gadget">
+          <h2 class="star"><span>Recent</span></h2>
+          <ul class="sb_menu">
+            <li><a href="News.html">News</a></li>
+            <li></li>
+            <li><a href="Competitions.html">Competitions</a></li>
+            <li></li>
+            <li><a href="Downloads.html">Downloads</a></li>
+            <li></li>
+            <li><a href="Joinus.html">Join us</a></li>
+            <li></li>
+            <li></li>
+          </ul>
+        </div>
+        <div class="gadget">
+          <h2 class="star">Patrons</h2>
+          <a href="http://www.iitm.ac.in/"><img src="images/iitmfinal.jpg" alt="iitm" width="100" height="100" class="border" /></a><a href="http://iitmaa.org/"><img src="images/iitmaa final.jpg" alt="iitmaa" width="100" height="100" class="border" /></a>
+<p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp; </p>
+          <p>&nbsp;</p>
+        </div>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="fbg">
+    <div class="fbg_resize">
+      <div class="col c1">
+        <h2>&nbsp;</h2>
+</div>
+      <div class="col c3">
+        <h2>&nbsp;</h2>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="footer_resize">
+      <p class="lf">Created by Harish Marisetty with the assistance of Arun and Ajesh</p>
+      <ul class="fmenu">
+        <li class="active"><a href="home.html">Home</a></li>
+        <li class="active"><a href="Ideas.html">ideas</a></li>
+        <li class="active"><a href="Activities.html">Activities</a></li>
+        <li class="active"><a href="about.html">About Us</a></li>
+        <li class="active"><a href="Contactus.html">Contacts</a></li>
+      </ul>
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+<!--
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"../../SpryAssets/SpryMenuBarDownHover.gif", imgRight:"../../SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+</body>
+</html>

@@ -1,0 +1,394 @@
+<!--DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Template</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="../css styles/style1.css" rel="stylesheet" type="text/css" />
+<!-- CuFon: Enables smooth pretty custom font rendering. 100% SEO friendly. To disable, remove this section
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/arial.js"></script>
+<script type="text/javascript" src="js/cuf_run.js"></script>
+<script src="../../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<!-- CuFon ends 
+<link href="../../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+
+
+</script>
+<link rel="stylesheet" href="./mirror_files/mainstyle.css" type="text/css" media="screen">
+
+
+
+	<!-- Start WOWSlider.com HEAD section 
+	<link rel="stylesheet" type="text/css" href="./mirror_files/style.css" media="screen">
+	<style type="text/css">a#vlb{display:none}</style>
+	<script type="text/javascript" src="./mirror_files/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section
+
+<script type="text/javascript" src="./mirror_files/a.js"></script>
+
+</head>
+<body>
+<div class="main">
+
+  <div class="header">
+    <div class="header_resize">
+      <div class="logo">
+        <h1>SUSTAINABILITY NETWORK  IIT Madras</h1></div>
+      <div class="menu_nav">
+        <ul id="MenuBar1" class="MenuBarHorizontal">
+          <li><a href="home.html">Home</a>          </li>
+          <li><a href="about.html" class="MenuBarItemSubmenu">About us</a>
+            <ul>
+              <li><a href="about.html">About us </a></li>
+              <li><a href="Einleitung.html">Einleitung</a></li>
+              <li><a href="Organizationalstrucutre.html">Organizational strucutre</a></li>
+            </ul>
+          </li>
+          <li><a href="Activities.html">Activities</a></li>
+          <li><a href="Ideas.html">Ideas</a>          </li>
+          <li><a href="Contactus.html">Contact us</a></li>
+        </ul>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <!--
+      <div class="container">
+
+<div class="ruled1">
+				
+				
+	Start WOWSlider.com BODY section -
+	<div id="wowslider-container">
+	<div id="wowslider-images" style="overflow-x: visible; overflow-y: visible; ">
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/autumn_leaves.jpg" alt="Autumn Leaves" title="Autumn Leaves" id="wows0" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/creek.jpg" alt="Creek" title="Creek" id="wows1" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/desert_landscape.jpg" alt="Desert Landscape" title="Desert Landscape" id="wows2" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/dock.jpg" alt="Dock" title="Dock" id="wows3" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/forest.jpg" alt="Forest" title="Forest" id="wows4" style="position: absolute; visibility: visible; left: 0px; display: block; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/forest_flowers.jpg" alt="Forest Flowers" title="Forest Flowers" id="wows5" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 0.32827769936042206; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/frangipani_flowers.jpg" alt="Frangipani Flowers" title="Frangipani Flowers" id="wows6" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/garden.jpg" alt="Garden" title="Garden" id="wows7" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/green_sea_turtle.jpg" alt="Green Sea Turtle" title="Green Sea Turtle" id="wows8" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/humpback_whale.jpg" alt="Humpback Whale" title="Humpback Whale" id="wows9" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+</div>
+<div class="ws_bullets">
+<a href="home.html" title="Autumn Leaves" class=""></a>
+<a href="home.html" title="Creek" class=""></a>
+<a href="home.html" title="Desert Landscape" class=""></a>
+<a href="home.html" title="Dock" class=""></a>
+<a href="home.html" title="Forest" class="ws_selbull"></a>
+<a href="home.html" title="Forest Flowers" class=""></a>
+<a href="home.html" title="Frangipani Flowers" class=""></a>
+<a href="home.html" title="Garden" class=""></a>
+<a href="home.html" title="Green Sea Turtle" class=""></a>
+<a href="home.html" title="Humpback Whale" class=""></a>
+
+<div class="ws_bulframe"><div><div style="width: 1100%; "><img src="./mirror_files/autumn_leaves(1).jpg" alt="autumn_leaves"><img src="./mirror_files/creek(1).jpg" alt="creek"><img src="./mirror_files/desert_landscape(1).jpg" alt="desert_landscape"><img src="./mirror_files/dock(1).jpg" alt="dock"><img src="./mirror_files/forest(1).jpg" alt="forest"><img src="./mirror_files/forest_flowers(1).jpg" alt="forest_flowers"><img src="./mirror_files/frangipani_flowers(1).jpg" alt="frangipani_flowers"><img src="./mirror_files/garden(1).jpg" alt="garden"><img src="./mirror_files/green_sea_turtle(1).jpg" alt="green_sea_turtle"><img src="./mirror_files/humpback_whale(1).jpg" alt="humpback_whale"></div></div><span></span></div></div>
+<a id="vlb" href="http://wowslider.com/">Vertical jQuery Slider by WOWSlider.com v1.0.1</a>
+	<div id="wowslider-shadow"></div>
+	<a href="home.html" class="ws_next"></a><a href="home.html" class="ws_prev"></a><div class="ws-title" style="display: block; "><span>Forest</span></div></div>
+	<script type="text/javascript" src="./mirror_files/script.js"></script>
+	<!-- End WOWSlider.com BODY section 
+		
+	
+</div></div>
+
+  <div class="content">
+    <div class="content_resize"> 
+
+      <div class="mainbar">
+     
+        <div class="article">
+        <h2><b>SNet :</h2><br></b><h3>Sneek Peek</h3>
+        <p><h3>ISCN-GULF report<br></h3>
+         Take a look at the International Sustainable Campus Network Report-Global Universities Leaders Forum(ISCN-GULF) prepared by SNet for our dear IIT Madras.
+<br /><a href="Downloads.html">More>></a>
+        </p><br />
+        <p><h3>SNet Techsoc Sustainability Challenge 2011<br></h3>
+         Net Techsoc Sustainability Challenge 2011 conducted in the Media Resource Center,Central Library witnessed the grueling battle of brains with hostels pitting against each other .<br>
+         The topic on which the hostels presented their reports and presentation was <b>“ Feasibility Study on Solar Panels on hostel terrace ”</b> Apart from this hostels were also encouraged to present the initiatives that have been taken by them to ensure a more sustainable lifestyle inside the hostels.<br>
+The judges present were,
+<ul>
+ <li>Prof Boby George, Dept of Electrical Engineering, IIT Madras.</li>
+<li>Mr. Narasimhan,   Director, Clixoo</li>
+<li>Mr. Nikil Nair,SELCO,India</li>
+<li>Ms. Deepa Sai ,Exnora.</li>
+</ul>
+<br /><a href="Activites.html">More>></a>
+        </p><br />
+        
+        
+ <!-- <div class="content">
+    <div class="content_resize"> <img src="images/img1.jpg" width="927" height="240" alt="image" class="ctop" />
+      <div class="mainbar">
+        <div class="article">
+          <h2>Activities</h2>
+          <p>Sustainability  is a life style to be put in to practice rather than a topic to be preached.  SNET focuses on effectively diverting human resource to learn and implement  sustainable development practices in their life. With this aim, SNET opens up  opportunities of learning by organizing various activities in areas of energy,  water, waste, environment and nutrition. Optimization of electric power usage  has been treated as a special category, owing to its nature of deeper impact  and quick result. In addition, SNET is involved in a lot of studies and research  on problems in implementing sustainable development in different areas and  suggesting solutions to these hurdles. Outcomes of these studies are also used  in increasing awareness among student community in IITM campus to take up  environment protection and sustenance activities. Various promotional  competitions are also organized to draw attention and provide platforms for  student community to involve in making IIT Madras a model campus in the area of  Sustainable lifestyle. <br /><li>
+            Electricity<br />
+            Waste management<br />
+            Water <br />
+            Environment<br />
+            Nutrition<br />
+            Energy  optimization<br /></li>
+            SNET is an  organization characterized by professionalism with a human heart for  environment. Its activities are organized mainly under three categories each  with each serving its own intended purpose.<br />
+            Sustainable  development activities<br />
+            Sustainability  Development Activities, SDA involves in identifying various problems and causes  that affect environment and ecological balance. SDA initiates studies and  research to identify problems and performs extensive brain storming and  discussion sessions to generate ideas on solutions to these issues. The ideas  and methods that come up from it are put to feasibility analysis on ease of  implementing, cost, payback time and environmental impacts. Primary objective  of all these exercises is to come up with solutions for common man to follow  and showcase it to the nation and world at large. <br />
+            SDA identifies  with specific projects that can be taken up by SNET to implement inside or  outside the campus.  Some of the  interesting ideas that this group has proposes includes LED lights for  corridors in hostels, Solid waste segregation techniques, Rain water  harvesting, Flood prevention through ground water recharging (improving water  percolation) etc.<br />
+            These ideas are  then taken forward by Sustainable development initiatives group towards  implementation.<br />
+            Sustainable  development Initiatives management<br />
+            The initiative  team operates in two ways-</p>
+          <p>Sustainability  awareness activities<br />
+            Awareness is  major step in achieving sustainability. This team works in reaching out to  public with facts on realities of environmental impact, climate change and  influence of individual level activities on this global phenomenon. The team  conducts direct awareness campaigns through Extra mural lectures, Workshops,  Training sessions, informative posters, electronic media etc. <br />
+            The team also mobilizes  the student community towards this common cause through incentivized exercises  in the form of various competitions. The Sustainability Challenge is a techsoc  competition which has become highly popular in the campus, involving various  hostels competing among themselves to come up with a detailed study identifying  problems in their hostels on sustainability and suggest solutions which are  implementable in their respective hostels. <br />
+          As part of their  global awareness and motivation program the awareness team along with the  entire SNET community of the campus plans to organize a Global Sustainability  Conference every year which will serve as a common practice to share ideas and  to show case problems, solutions, research activities, products and  achievements in the area of sustainability. </p>
+<p class="c3">&nbsp;</p>
+<h2><br />
+</h2>
+        </div>
+        <div class="article"> </div>
+      </div>
+      <div class="sidebar">
+        <div class="gadget">
+          <h2 class="star"><span>Recent</span></h2>
+          <ul class="sb_menu">
+            <li><a href="News.html">News</a></li>
+            <li></li>
+            <li><a href="Competitions.html">Competitions</a></li>
+            <li></li>
+            <li><a href="Downloads.html">Downloads</a></li>
+            <li></li>
+            <li><a href="Joinus.html">Join us</a></li>
+            <li></li>
+            <li></li>
+          </ul>
+        </div>
+        <div class="gadget">
+          <h2 class="star">Patrons</h2>
+          <a href="http://www.iitm.ac.in/"><img src="images/iitmfinal.jpg" alt="iitm" width="150" height="150" class="border" /></a><a href="http://iitmaa.org/"><img src="images/iitmaa final.jpg" alt="iitmaa" width="150" height="150" class="border" /></a>
+<p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp; </p>
+          <p>&nbsp;</p>
+        </div>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="fbg">
+    <div class="fbg_resize">
+      <div class="col c1">
+        <h2>&nbsp;</h2>
+</div>
+      <div class="col c3">
+        <h2>&nbsp;</h2>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="footer_resize">
+      <p class="lf">Created by Harish Marisetty with the assistance of Arun and Ajesh</p>
+      <ul class="fmenu">
+        <li class="active"><a href="home.html">Home</a></li>
+        <li class="active"><a href="Ideas.html">ideas</a></li>
+        <li class="active"><a href="Activities.html">Activities</a></li>
+        <li class="active"><a href="about.html">About Us</a></li>
+        <li class="active"><a href="Contactus.html">Contacts</a></li>
+      </ul>
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+<!--
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"../../SpryAssets/SpryMenuBarDownHover.gif", imgRight:"../../SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Template</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="../css styles/style1.css" rel="stylesheet" type="text/css" />
+<!-- CuFon: Enables smooth pretty custom font rendering. 100% SEO friendly. To disable, remove this section -->
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/arial.js"></script>
+<script type="text/javascript" src="js/cuf_run.js"></script>
+	<link rel="stylesheet" type="text/css" href="./mirror_files/style.css" media="screen">
+<script type="text/javascript" src="./mirror_files/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section-->
+
+<script type="text/javascript" src="./mirror_files/a.js"></script>
+<link rel="stylesheet" href="./mirror_files/mainstyle.css" type="text/css" media="screen">
+<script src="../../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<!-- CuFon ends -->
+<link href="../../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="main">
+
+  <div class="header">
+    <div class="header_resize">
+      <div class="logo">
+        <h1>SUSTAINABILITY NETWORK  IIT Madras</h1></div>
+      <div class="menu_nav">
+        <ul id="MenuBar1" class="MenuBarHorizontal">
+          <li><a href="home.html">Home</a>          </li>
+          <li><a href="about.html" class="MenuBarItemSubmenu">About us</a>
+            <ul>
+              <li><a href="about.html">About us </a></li>
+              <li><a href="Einleitung.html">Einleitung</a></li>
+              <li><a href="Organizationalstrucutre.html">Organizational strucutre</a></li>
+            </ul>
+          </li>
+          <li><a href="Activities.html">Activities</a></li>
+          <li><a href="Ideas.html">Ideas</a>          </li>
+          <li><a href="Contactus.html">Contact us</a></li>
+        </ul>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  
+  
+  
+  <div class="container">
+
+<div class="ruled1">
+				
+				
+
+	<div id="wowslider-container">
+	<div id="wowslider-images" style="overflow-x: visible; overflow-y: visible; ">
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/autumn_leaves.jpg" alt="Autumn Leaves" title="Autumn Leaves" id="wows0" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/creek.jpg" alt="Creek" title="Creek" id="wows1" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/desert_landscape.jpg" alt="Desert Landscape" title="Desert Landscape" id="wows2" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/dock.jpg" alt="Dock" title="Dock" id="wows3" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/forest.jpg" alt="Forest" title="Forest" id="wows4" style="position: absolute; visibility: visible; left: 0px; display: block; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/forest_flowers.jpg" alt="Forest Flowers" title="Forest Flowers" id="wows5" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 0.32827769936042206; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/frangipani_flowers.jpg" alt="Frangipani Flowers" title="Frangipani Flowers" id="wows6" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/garden.jpg" alt="Garden" title="Garden" id="wows7" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/green_sea_turtle.jpg" alt="Green Sea Turtle" title="Green Sea Turtle" id="wows8" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+<a href="home.html" style="font-size: 0px; "><img src="./mirror_files/humpback_whale.jpg" alt="Humpback Whale" title="Humpback Whale" id="wows9" style="position: absolute; visibility: visible; left: 0px; display: none; opacity: 1; "></a>
+</div>
+<div class="ws_bullets">
+<a href="home.html" title="Autumn Leaves" class=""></a>
+<a href="home.html" title="Creek" class=""></a>
+<a href="home.html" title="Desert Landscape" class=""></a>
+<a href="home.html" title="Dock" class=""></a>
+<a href="home.html" title="Forest" class="ws_selbull"></a>
+<a href="home.html" title="Forest Flowers" class=""></a>
+<a href="home.html" title="Frangipani Flowers" class=""></a>
+<a href="home.html" title="Garden" class=""></a>
+<a href="home.html" title="Green Sea Turtle" class=""></a>
+<a href="home.html" title="Humpback Whale" class=""></a>
+
+<div class="ws_bulframe"><div><div style="width: 1100%; "><img src="./mirror_files/autumn_leaves(1).jpg" alt="autumn_leaves"><img src="./mirror_files/creek(1).jpg" alt="creek"><img src="./mirror_files/desert_landscape(1).jpg" alt="desert_landscape"><img src="./mirror_files/dock(1).jpg" alt="dock"><img src="./mirror_files/forest(1).jpg" alt="forest"><img src="./mirror_files/forest_flowers(1).jpg" alt="forest_flowers"><img src="./mirror_files/frangipani_flowers(1).jpg" alt="frangipani_flowers"><img src="./mirror_files/garden(1).jpg" alt="garden"><img src="./mirror_files/green_sea_turtle(1).jpg" alt="green_sea_turtle"><img src="./mirror_files/humpback_whale(1).jpg" alt="humpback_whale"></div></div><span></span></div></div>
+	<div id="wowslider-shadow"></div>
+	<a href="home.html" class="ws_next"></a><a href="home.html" class="ws_prev"></a><div class="ws-title" style="display: block; "><span>Forest</span></div></div>
+	<script type="text/javascript" src="./mirror_files/script.js"></script>
+	<!-- End WOWSlider.com BODY section 
+		
+	
+</div></div>
+  
+  
+  
+  
+
+  <div class="content">
+    <div class="content_resize"> <img src="images/img1.jpg" width="927" height="240" alt="image" class="ctop" />
+      <div class="mainbar">
+        <div class="article">
+          <h2>Activities</h2>
+          <p>Sustainability  is a life style to be put in to practice rather than a topic to be preached.  SNET focuses on effectively diverting human resource to learn and implement  sustainable development practices in their life. With this aim, SNET opens up  opportunities of learning by organizing various activities in areas of energy,  water, waste, environment and nutrition. Optimization of electric power usage  has been treated as a special category, owing to its nature of deeper impact  and quick result. In addition, SNET is involved in a lot of studies and research  on problems in implementing sustainable development in different areas and  suggesting solutions to these hurdles. Outcomes of these studies are also used  in increasing awareness among student community in IITM campus to take up  environment protection and sustenance activities. Various promotional  competitions are also organized to draw attention and provide platforms for  student community to involve in making IIT Madras a model campus in the area of  Sustainable lifestyle. <br /><li>
+            Electricity<br />
+            Waste management<br />
+            Water <br />
+            Environment<br />
+            Nutrition<br />
+            Energy  optimization<br /></li>
+            SNET is an  organization characterized by professionalism with a human heart for  environment. Its activities are organized mainly under three categories each  with each serving its own intended purpose.<br />
+            Sustainable  development activities<br />
+            Sustainability  Development Activities, SDA involves in identifying various problems and causes  that affect environment and ecological balance. SDA initiates studies and  research to identify problems and performs extensive brain storming and  discussion sessions to generate ideas on solutions to these issues. The ideas  and methods that come up from it are put to feasibility analysis on ease of  implementing, cost, payback time and environmental impacts. Primary objective  of all these exercises is to come up with solutions for common man to follow  and showcase it to the nation and world at large. <br />
+            SDA identifies  with specific projects that can be taken up by SNET to implement inside or  outside the campus.  Some of the  interesting ideas that this group has proposes includes LED lights for  corridors in hostels, Solid waste segregation techniques, Rain water  harvesting, Flood prevention through ground water recharging (improving water  percolation) etc.<br />
+            These ideas are  then taken forward by Sustainable development initiatives group towards  implementation.<br />
+            Sustainable  development Initiatives management<br />
+            The initiative  team operates in two ways-</p>
+          <p>Sustainability  awareness activities<br />
+            Awareness is  major step in achieving sustainability. This team works in reaching out to  public with facts on realities of environmental impact, climate change and  influence of individual level activities on this global phenomenon. The team  conducts direct awareness campaigns through Extra mural lectures, Workshops,  Training sessions, informative posters, electronic media etc. <br />
+            The team also mobilizes  the student community towards this common cause through incentivized exercises  in the form of various competitions. The Sustainability Challenge is a techsoc  competition which has become highly popular in the campus, involving various  hostels competing among themselves to come up with a detailed study identifying  problems in their hostels on sustainability and suggest solutions which are  implementable in their respective hostels. <br />
+          As part of their  global awareness and motivation program the awareness team along with the  entire SNET community of the campus plans to organize a Global Sustainability  Conference every year which will serve as a common practice to share ideas and  to show case problems, solutions, research activities, products and  achievements in the area of sustainability. </p>
+<p class="c3">&nbsp;</p>
+<h2><br />
+</h2>
+        </div>
+        <div class="article"> </div>
+      </div>
+      <div class="sidebar">
+        <div class="gadget">
+          <h2 class="star"><span>Recent</span></h2>
+          <ul class="sb_menu">
+            <li><a href="News.html">News</a></li>
+            <li></li>
+            <li><a href="Competitions.html">Competitions</a></li>
+            <li></li>
+            <li><a href="Downloads.html">Downloads</a></li>
+            <li></li>
+            <li><a href="Joinus.html">Join us</a></li>
+            <li></li>
+            <li></li>
+          </ul>
+        </div>
+        <div class="gadget">
+          <h2 class="star">Patrons</h2>
+          <a href="http://www.iitm.ac.in/"><img src="images/iitmfinal.jpg" alt="iitm" width="150" height="150" class="border" /></a><a href="http://iitmaa.org/"><img src="images/iitmaa final.jpg" alt="iitmaa" width="150" height="150" class="border" /></a>
+<p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp; </p>
+          <p>&nbsp;</p>
+        </div>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="fbg">
+    <div class="fbg_resize">
+      <div class="col c1">
+        <h2>&nbsp;</h2>
+</div>
+      <div class="col c3">
+        <h2>&nbsp;</h2>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  -->
+  <div class="footer">
+    <div class="footer_resize">
+      <p class="lf">Created by Harish Marisetty with the assistance of Arun and Ajesh</p>
+      <ul class="fmenu">
+        <li class="active"><a href="home.html">Home</a></li>
+        <li class="active"><a href="Ideas.html">ideas</a></li>
+        <li class="active"><a href="Activities.html">Activities</a></li>
+        <li class="active"><a href="about.html">About Us</a></li>
+        <li class="active"><a href="Contactus.html">Contacts</a></li>
+      </ul>
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"../../SpryAssets/SpryMenuBarDownHover.gif", imgRight:"../../SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+</body>
+</html>
